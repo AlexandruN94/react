@@ -1,1 +1,1 @@
-# react
+This is where I am going to upload my progress with React. I am currently learning this framework after having finished a vanilla JavaScript course and after having completed my first project. My next objective is to rewrite that project in React.
